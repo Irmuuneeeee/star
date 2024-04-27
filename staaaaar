@@ -1,0 +1,7 @@
+For i = 0 To 4
+    Turtle.Show()
+    Turtle.speed=50
+    Turtle.turn(150)
+    Turtle.Move(100)
+    EndFor
+    TextWindow.WriteLine("amjilttai")
